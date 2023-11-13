@@ -1,0 +1,52 @@
+#roseInicio {
+    background-color: white;
+    background-image: url("../img/rosi.jpg");
+    background-position-x: center;
+    background-position-y: 30%;
+    border: 0.1em solid #000000;
+    min-height: 5em;
+    padding: 10em;
+  
+}
+.nav {
+    overflow: hidden;
+    background-color: white;
+    border: 0.1em solid #000000;
+   
+}
+ul{
+    list-style: none;
+    margin-top: 0;
+}
+.nav a {
+    padding: 1em;
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    text-decoration: none;
+}
+.nav a:hover{
+    background-color: aqua;
+    color: #000000;
+}
+body{
+    margin-left: 7.5vw;
+    margin-right: 7.5vw;
+    border: 0.1em solid #000000;
+}
+footer{
+    border: 0.1em solid #000000;
+    text-align: center;
+}
+.redes{
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    margin-right: 1em;
+}
+.redes:hover{
+    color:rgb(184, 13, 13);
+    font-weight: bold;
+}
+

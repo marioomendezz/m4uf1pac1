@@ -1,0 +1,16 @@
+#info{
+    width: 48%;
+    float: left;
+    margin-left:  2%;
+}
+#tour{
+    width: 48%;
+    float: left;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    margin-right: 2%;
+    text-align: center;
+}
+#imtour{
+    width: 80%;
+}
